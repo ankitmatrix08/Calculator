@@ -12,6 +12,7 @@ namespace DateParserTest
     {
         static void Main(string[] args)
         {
+            string abc = "Ankit";
             string format = "dd/MM/yyyy hh:mm:ss";
             DateTime promiseDate;
             CultureInfo provider = CultureInfo.InvariantCulture;
